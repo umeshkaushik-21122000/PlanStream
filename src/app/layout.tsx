@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 const siteConfig = {
-  name: "PlanStream",
-  description: "Ready to Use PlanStream",
+  name: "Trello 2.0",
+  description: "Ready to Use Kanban board",
 };
 
 export const metadata: Metadata = {
