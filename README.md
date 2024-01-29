@@ -1,6 +1,5 @@
-# Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
+# PlanStream: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
 
-### It was made together with the tutorial on Code With Antonio youtube channel.
 
 Key Features:
 - Auth 
