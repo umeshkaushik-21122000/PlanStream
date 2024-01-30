@@ -27,7 +27,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/Suleyman1406/trello-clone.git
+git clone https://github.com/umeshkaushik-21122000/PlanStream.git
 ```
 
 ### Install packages
